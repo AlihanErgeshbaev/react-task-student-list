@@ -1,0 +1,6 @@
+.nav_footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-top: 200px;
+}
